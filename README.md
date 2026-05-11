@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I’m Rifat Rayhan
+CSE Student at entity["organization","Bangladesh University of Business & Technology"]
 
-<!--
-**MdRifatRayhan/MdRifatRayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+I’m interested in Computer Networking, Systems, and Infrastructure. Currently building strong fundamentals in networking and preparing for CCNA.
 
-Here are some ideas to get you started:
+🎯 Career Goal
+Aspiring Network Engineer focused on Cisco Networking, TCP/IP, VLANs, Routing & Switching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning
+CCNA (Cisco Certified Network Associate)
+Cisco Networking Fundamentals
+TCP/IP Protocol Suite
+VLANs & Subnetting
+Routing & Switching Basics
+
+🤝 Collaboration
+Open to collaborating on networking labs, simulation projects, and IT infrastructure learning.
+
+📊 GitHub Stats
+
+
+📫 Contact
+Email: rifatrayhan012@gmail.com
