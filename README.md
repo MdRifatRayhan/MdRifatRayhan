@@ -16,7 +16,7 @@ CCNA (Cisco Certified Network Associate),
 Cisco Networking Fundamentals, 
 TCP/IP Protocol Suite, 
 VLANs & Subnetting, 
-Routing & Switching Basics,
+Routing & Switching Basics
 
 🤝 Collaboration
 
