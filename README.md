@@ -46,6 +46,27 @@ Routing & Switching Basics
 
 
 
+<a href="https://www.credly.com/earner/earned/share/766dc658-10aa-4673-9554-f5210493f3d4" target="_blank">
+  <img src="https://images.credly.com/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png" alt="Cisco Badge" width="130" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🤝 Collaboration
 
 Open to collaborating on networking labs, simulation projects, and IT infrastructure learning.
