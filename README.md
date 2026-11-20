@@ -34,14 +34,13 @@ Routing & Switching Basics
 
 
 
-### 🛠️ Featured Network Engineering Project
+### Featured Networking Projects
 
-#### 🔗 [Real-World Network Troubleshooting & Incident Response Lab (20 End-to-End Scenarios)](https://github.com/MdRifatRayhan/Real-World-Network-Troubleshooting-Lab)
-A comprehensive, hands-on network troubleshooting portfolio documenting **20 real-world enterprise incidents** with structured Root Cause Analysis (RCA), packet captures (`.pcapng`), reproducible Packet Tracer topologies (`.pkt`), and CLI/visual verification proofs.
-
-* **Phase 1 — Host Diagnostics & Deep Packet Analysis (INC-01 to INC-10):** Resolved DNS, DHCP DORA/APIPA, Duplicate IP (Gratuitous ARP DAD), Default Gateway, Windows Defender Firewall filtering, TCP `SYN`/`RST-ACK` socket faults, ARP cache poisoning, PMTUD/MTU blackholes (`DF` bit), and asymmetric route metric conflicts using **Windows CLI** and **Wireshark**.
-* **Phase 2 — Enterprise Switching, Routing & High Availability (INC-11 to INC-20):** Diagnosed and remediated `802.1Q` VLAN mismatches, Router-on-a-Stick sub-interface tagging, NAT/PAT ACLs, OSPF Area ID adjacency faults, Extended ACL rule ordering, DHCP Snooping rogue server mitigation, Port-Security `err-disabled` recovery, HSRP split-brain failover, STP Root Bridge & BPDU Guard faults, and EtherChannel (`LACP` vs. `PAgP`) bundling in **Cisco Packet Tracer**.
-* **Core Tools:** `Wireshark` • `Cisco IOS CLI` • `Cisco Packet Tracer` • `Windows PowerShell / CMD` • `TCP/IP & OSI Troubleshooting`
+| Project | Key Technologies | Highlights |
+| :--- | :--- | :--- |
+| **[Network Monitoring & Alerting System](https://github.com/MdRifatRayhan/Zabbix-Network-Monitoring-Lab)** | `Zabbix 7.0` `Docker` `SNMPv2c` `Linux` `VirtualBox` | Deployed a containerized Zabbix 7.0 monitoring stack with a simulated SNMPv2c router (`Virtual-Router-01`), custom performance dashboards, bandwidth graphing, and automated ICMP/SNMP incident alerting & recovery. |
+| **[Enterprise Multi-Tier Campus Network Infrastructure](https://github.com/MdRifatRayhan/Enterprise-Multi-Tier-Network-Infrastructure)** | `Cisco Packet Tracer` `OSPFv2` `HSRPv2` `WLC` `DAI` `IPv6` | Engineered a resilient 3-tier campus network (Core, Distribution, Access) with Layer-3 EtherChannel, Rapid PVST+, dual-stack IPv6 routing, WLC/LWAP corporate Wi-Fi, centralized DHCP/NAT/Syslog/SNMP services, and Layer-2 security hardening (DAI, DHCP Snooping, Sticky Port-Security, Extended ACLs, SSHv2). |
+| **[Real-World Network Troubleshooting Lab](https://github.com/MdRifatRayhan/Real-World-Network-Troubleshooting-Lab)** | `Cisco Packet Tracer` `Wireshark` `OSPF` `VLANs` `ACLs` | Executed and documented 20 enterprise network troubleshooting scenarios covering DNS/DHCP failures, inter-VLAN routing, NAT/PAT, OSPF adjacencies, HSRP, STP, and LACP EtherChannel. |
 
 
 
